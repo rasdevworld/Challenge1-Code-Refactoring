@@ -41,5 +41,8 @@ MIT License - The License file is provided here : (./LICENSE)
 
 ![Alt text](./assets/images/Horiseon_webpage_refactor.png)
 
-## Deployed page
+## Deployed page and Github Repository
 
+Deployed Webpage : https://rasdevworld.github.io/challenge_1/
+
+Github Repository: https://github.com/rasdevworld/challenge_1
