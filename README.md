@@ -43,6 +43,6 @@ MIT License - The License file is provided here : (./LICENSE)
 
 ## Deployed page and Github Repository
 
-Deployed Webpage : https://rasdevworld.github.io/challenge_1/
+Deployed Webpage : https://rasdevworld.github.io/Challenge1-Code-Refactoring/
 
-Github Repository: https://github.com/rasdevworld/challenge_1
+Github Repository: https://github.com/rasdevworld/Challenge1-Code-Refactoring
